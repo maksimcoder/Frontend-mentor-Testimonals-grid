@@ -102,8 +102,12 @@ a:hover {
     grid-column: 1 / 3;
     grid-row: 1;
     background-color: hsl(263, 61%, 56%);
+    background-image: url('images/bg-pattern-quotation.svg');
+    background-position: 80% 0;
+    background-repeat: no-repeat;
     color: white;
 }
+
 
 .card:nth-child(2) {
     background-color: hsl(217, 19%, 35%);
